@@ -36,5 +36,7 @@ This was built as a college project to demonstrate the core textbook algorithm f
     ```
 3.  Run the program:
     ```sh
-    python gaussian_solver_FINAL_TEACHER.py
+    python gaussian_solver.py
+    
     ```# Gaussian-Elimination-Solver
+
